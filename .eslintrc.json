@@ -18,12 +18,5 @@
 			"jsx": true
 		},
 		"sourceType": "module"
-	},
-	"no-empty-function": "off",
-	"no-restricted-imports": [
-		"error",
-		{
-			"patterns": [".*"]
-		}
-	]
+	}
 }
